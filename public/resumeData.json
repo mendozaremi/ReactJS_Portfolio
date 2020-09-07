@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Remi Mendoza",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack Academy Grad",
+    "image": "remi.jpeg",
+    "bio": "My name is Remi, Coding changed my life",
+    "contactmessage": "Get in touch with me to talk code or if you have any questions.",
+    "email": "Mendozaremi@gmail.com",
+    "phone": "123-456-7890",
+    "address": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://mendozaremi.github.io/portfolio/contact.html",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/remigeronimo.mendoza/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/remi-mendoza/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/remi.banks/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mendozaremi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills",
+    "education": [
+      {
+        "school": "FullStack Academy",
+        "degree": "Software Engineering Certificate",
+        "graduated": "February 2020",
+        "description": "13-week immersive software engineering bootcamp"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Knowledge House",
+        "title": "Web Development Student",
+        "years": "March 2019 - June 2019",
+        "description": "Completed 108 hours of technical course work in HTML, CSS, Javascript in preparation for an advanced coding bootcamp."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Aplier Fullstack Application",
+        "category": "Capstone Project built with (ReactJS/Apollo, GraphQL, AWS Cognito, AWS RDS)",
+        "image": "aplier.jpeg",
+        "url": "http://apliercapstone.us-east-1.elasticbeanstalk.com/"
+      },
+      {
+        "title": "PowerSuits E-commerce site",
+        "category": "E-commerce site built with (PostgreSQL, ExpressJS, ReactJS, NodeJS)",
+        "image": "powersuits.jpeg",
+        "url": "http://power-suits.herokuapp.com/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with (ReactJS)",
+        "image": "netflix-clone.jpeg",
+        "url": "https://remflix-cf959.web.app/"
+      },
+      {
+        "title": "Breaking Bad Casting app",
+        "category": "Breaking bad cast app using hooks built with (ReactJS)",
+        "image": "breakingbad.jpeg",
+        "url": "https://mendozaremi.github.io/breakingBadCastReactApp/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "TBD",
+        "user": "TBD"
+      }
+    ]
+  }
+}
